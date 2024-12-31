@@ -1,6 +1,5 @@
 ---
 # Bulls and Cows Console Game
----
 
 This repository contains the implementation of the Bulls and Cows game in C++.
 
@@ -29,4 +28,5 @@ Bulls and Cows is a classic code-breaking game for two players. The computer gen
 ## Author
 
 Oleksandr Zabo
+
 ---
